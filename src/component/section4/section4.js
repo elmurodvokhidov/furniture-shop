@@ -1,5 +1,3 @@
-import Styles from "./section4.module.css"
-
 function Section4() {
 
     return (
