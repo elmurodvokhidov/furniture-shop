@@ -5,6 +5,7 @@ import Section4 from "../section4/section4"
 import Section5 from "../section5/section5"
 import Section6 from "../section6/section6"
 import Section7 from "../section7/section7"
+import Section8 from "../section8/section8"
 
 
 function Home() {
@@ -17,6 +18,7 @@ function Home() {
         <Section5 />
         <Section6 />
         <Section7 />
+        <Section8 />
         </>
     )
 }
