@@ -1,6 +1,4 @@
 import section7 from "./section7.module.css";
-import rasim1 from "./img/rasim1.png";
-import rasim2 from "./img/rasim2.png";
 function Section7() {
     return (
         <div className={section7.container}>
