@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    background-color: red;
+}
+.container .box1{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 50px 30px 200px;
+}
+.container .box1 .chiziq{
+    display: flex;
+    gap: 20px;
+}
+.box2{
+    display: flex;
+    width: 520px;
+    background-color: rgba(31, 32, 32, 0.032);
+}
+.box2 .ikki{
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow: hidden;
+}
+.i{
+    color: rgb(240, 240, 4);
+}
+.i i{
+    padding: 0 5px 0 0;
+}
