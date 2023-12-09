@@ -6,71 +6,49 @@
 
 }
 
-.container {
-    max-width: 1440px;
 
-    margin: 0 auto;
-    padding: 0 140px;
 
+
+.Card_1 {
+    width: 366px;
+    height: 207px;
+    border-radius: 5px;
+    background: #FFF;
+    padding: 12px;
 }
 
-.main3_page {
-    width: 100%;
-    margin-top: 120px;
-    padding-bottom: 120px;
+.Card_1:hover {
+
+    box-shadow: 4px 4px 10px 1px rgba(0, 0, 0, 0.09);
+}
+.rasm{
+   padding: 10px 0;
 }
 
-.main3_text {
+
+
+.card_text {
     color: #000;
-    font-family: Roboto;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 16px;
-
-}
-
-.main_top_fleex {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-
-    gap: 7px;
-    padding-bottom: 40px;
-    margin-left: 16px;
-
-
-}
-
-.main3_line {
-    width: 69px;
-    height: 1px;
-    background: #000;
-}
-
-.main3_flex_desc {
-    width: 358px;
-    color: #373737;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
-    font-weight: 400;
-    line-height: 30px;
-
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 20px;
+   
 }
 
-.Card_box {
+.card_desc {
+    width: 297px;
+    color: #696161;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
 
-    width: 1400px;
-
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-
-
+    margin-top: 10px;
 
 }
-
 
 @media screen and (min-width: 769px)and (max-width:1000px) {
     .Card_box {
@@ -80,7 +58,7 @@
     }
 
     .Card_1 {
-        width: 500px;
+        width: 600px;
         height: 207px;
 
     }
