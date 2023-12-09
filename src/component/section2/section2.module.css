@@ -1,0 +1,43 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+ }
+
+ .asos {
+     background-color: rgb(106, 214, 52);
+     width: 100%;
+     height: 100vh;
+     padding: 200px 0px;
+ }
+
+ .box {
+     width: 100%;
+     height: 300px;
+     background: linear-gradient(113deg, rgba(207, 207, 207, 0.26) 0%, rgba(207, 207, 207, 0.06) 92.87%);
+     backdrop-filter: blur(15px);
+     padding: 30px;
+ }
+
+ .tetx {
+     font-size: 40px;
+     text-align: center;
+     align-items: center;
+ }
+
+ .text2 {
+     text-align: center;
+     align-items: center;
+     color: white;
+     margin-top: 30px;
+ }
+
+ .button {
+     width: 100px;
+     height: 30px;
+     background-color: black;
+     color: white;
+     margin-left: 45%;
+     margin-top: 30px;
+
+ }
