@@ -12,8 +12,8 @@ function Section1() {
                 <p>About</p>
                 <p>Service</p>
                 <p>Furniture</p>
-                <button>Order Now</button>
-                <CiSearch />
+                <button className={Style.botton}>Order Now</button>
+                <CiSearch style={{fontSize: '30px'}} />
             </div>
         </div>
     )
