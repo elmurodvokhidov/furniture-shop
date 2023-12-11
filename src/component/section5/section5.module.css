@@ -1,0 +1,84 @@
+.box{
+    display: block;
+    margin:  auto;
+   }
+   .box h1{
+       color: #000;
+   text-align: center;
+   font-size: 30px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+   }
+   .box p{
+       padding: 15px 0 50px 0;
+       color: #373737;
+   text-align: center;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px; 
+   }
+   .box2 input{
+       border-radius: 5px;
+   background: #EFEFEF;
+   padding: 10px;
+   color: #686868;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 18px; 
+   }
+   
+   .box3 li a{
+       color: #686868;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px; 
+   }
+   .box3 ul{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       gap: 30px;
+       text-decoration: none;
+       list-style: none;
+   }
+   .box1{
+         display: flex;
+       justify-content: center;
+       align-items: center;
+       gap: 100px;
+   }
+   .card{
+       border-radius: 5p   x;
+   background: #F9F9F9;
+   box-shadow: 8px 8px 20px 0px rgba(39, 39, 43, 0.10);
+   }
+   .flex{
+       display: flex;
+       align-items: center;
+       gap: 20px;
+   }
+   .flex h1{
+       color: #373737;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 30px; 
+   }
+   .card p{
+       color: #696161;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 300;
+   line-height: 24px; 
+   }
+   .div{
+    padding: 100px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   }
