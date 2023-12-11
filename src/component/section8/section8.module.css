@@ -1,0 +1,86 @@
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    padding: 80px 180px;
+    gap: 100px;
+    font-family: sans-serif;
+    background: #373737;
+    width: 100%;
+  }
+  
+  .phone {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .footer p {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    width: 150px;
+  }
+  
+  .footer h1 {
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 700;
+  }
+  
+  .kart1 {
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .kart2 {
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .kart3 {
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .kart4 {
+    display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .kart4 input {
+    padding: 0 12px 67px;
+    border-radius: 5px;
+    background: #FFF;
+  }
+  
+  .kart4 button {
+    padding: 12px 67px;
+    border-radius: 5px;
+    background: #FFF;
+  }
+  
+  .kart4 input {
+    padding: 12px 67px;
+    border-radius: 5px;
+    background: #FFF;
+  }
+  
+  .input {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .social {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 25px;
+  }
