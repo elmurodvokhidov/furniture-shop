@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding: 70px;
+}
+
+.text {
+    padding: 30px 100px;
+}
+
+.section2 {
+    display: flex;
+}
+
+.text1 h5 {
+    color: #373737;
+    font-size: 20px;
+    padding: 0 30px 30px;
+    font-weight: 300;
+}
+
+.text1 button {
+    width: 140px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    margin: 0 30px 30px;
+    border-radius: 5px;
+    background-color: #373737;
+}
+.link{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 20px;
+}
