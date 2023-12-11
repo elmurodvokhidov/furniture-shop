@@ -16,8 +16,8 @@ function Home() {
         <>
         <Section1 />
         <Section2 />
-        <Section3 />
         <Section4 />
+        <Section3 />
         <Section5 />
         <Section6 />
         <Section7 />
