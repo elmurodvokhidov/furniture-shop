@@ -14,18 +14,18 @@ import rasim2 from "../section7/img/rasim2.png";
 function Home() {
     return (
         <>
-        <Section1 />
-        <Section2 />
-        <Section4 />
-        <Section3 />
-        <Section5 />
-        <Section6 />
-        <Section7 />
-        <div className={Style.card}>
-        <Card rasim={rasim1}/>
-        <Card rasim={rasim2}/>
-        </div>
-        <Section8 />
+            <Section1 />
+            <Section2 />
+            <Section4 />
+            <Section3 />
+            <Section5 />
+            <Section6 />
+            <Section7 />
+            <div className={Style.card}>
+                <Card rasim={rasim1} />
+                <Card rasim={rasim2} />
+            </div>
+            <Section8 />
         </>
     )
 }
