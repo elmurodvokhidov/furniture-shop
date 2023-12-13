@@ -10,11 +10,11 @@ function Section4() {
         <div className={Style.section}>
             <div className={Style.number}>
                 <div className={Style.number1}>
-                    <h1>120 K</h1>
+                    <h1>120 k</h1>
                     <h4>Furniture Sale</h4>
                 </div>
                 <div className={Style.number1}>
-                    <h1>98 K</h1>
+                    <h1>98 k</h1>
                     <h4>Review(4.5)</h4>
                 </div>
                 <div className={Style.number1}>
@@ -24,7 +24,7 @@ function Section4() {
             </div>
             <div className={Style.text}>
                 <h1>Learn about us</h1>
-                <h4>------It’s short title here</h4>
+                <h4>_____It’s short title here</h4>
             </div>
             <div className={Style.section2}>
                 <img src={img} alt="img" />
